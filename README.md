@@ -1,4 +1,4 @@
-# meu_aluroni
+# meu_aluroni 🤌
 
 Este é um projeto realizado ao longo da Formação de React com TypeScript da Alura, em que construí um restaurante virtual em React, usando o react-router-dom. Apesar do projeto inicial utilizar **create-react-app**, optei por usar o **Vite**, porque esse é muito mais rápido do que este. E eu não estou exagerando com isso, a diferença é muito grande.
 
